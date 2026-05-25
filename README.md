@@ -36,6 +36,6 @@ I like building things end-to-end — from backend APIs and infrastructure to mo
 
 **📫 Reach me**
 - LinkedIn: [linkedin.com/in/abdullahyassine](https://linkedin.com/in/abdullahyassine)
-- Email: *(add your preferred email here)*
+- Email: abdullah.m.yassine@gmail.com
 
 🌍 Arabic · Français · English
