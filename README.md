@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=72&lines=SOFTWARE+ENGINEER;SPRING+2026+CS+GRAD;OPEN+TO+NEW-GRAD+SWE+ROLES;BACKEND+%2F+INFRA+%2F+A+LITTLE+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=600&height=72&lines=SOFTWARE+ENGINEER;SPRING+2026+CS+GRAD;OPEN+TO+NEW-GRAD+SWE+ROLES+AND+INTERNSHIPS;BACKEND+%2F+INFRA+%2F+A+LITTLE+ML" alt="Typing SVG" />
 
 <br/>
 
